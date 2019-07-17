@@ -1,0 +1,62 @@
+#org{
+    width: 250px;
+    margin-left: 200px; 
+  }  
+  #tableselect{
+    width: 270px;
+    margin-left: 50px; 
+  }
+  #month{
+    width: 100px;
+    margin-left: 50px; 
+  }
+  #year{
+    width: 80px;
+    margin-left: 50px; 
+  }
+  #buttonload{
+    width: 200px;
+    margin-left: 50px; 
+  }
+  #orglabel{
+    width: 200px;
+    margin-left: 280px; 
+  }
+  #tablelabel{
+    margin-left: 120px; 
+  }
+  #monthlabel{
+    width: 100px;
+    margin-left: 185px; 
+  }
+  #yearlabel{
+    width: 200px;
+    margin-left: 50px; 
+
+  }
+  table {
+    transform: scale(1,1);
+    width: 98%; 
+    background: black; 
+    color: black; 
+    border-spacing: 1px; 
+    padding: 0px; 
+    margin: 0;
+    border-style: solid; 
+  }
+  td {
+    background: white; 
+  }
+  th {
+    background: white; 
+  }
+  textarea{
+    border: none;
+    outline: none;
+    resize: none;
+    text-align: right; 
+    vertical-align: top; 
+    width: 100%;
+    height: 20px;
+    overflow: hidden;
+  }
